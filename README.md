@@ -1,4 +1,4 @@
-# Project - Automating Data Report Extraction for Self-Service Data Analysis
+# Project - Automating Data Report Extraction for Self-Service Data Analysis using Python
 
 Data is essential for businesses to make decisions and run smoothly. Not just technical teams, but finance, accounting, and other non-technical teams also rely on it. This project demonstrates how automated reports enable non-technical teams to analyze data and identify patterns or insights without relying on technical support.
 
