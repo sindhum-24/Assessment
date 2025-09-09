@@ -1,4 +1,4 @@
-In a real-world production environment, the data to be queried is stored in a database, which can be accessed in Python by providing the database connection parameters and credentials. Many databases also support connections via APIs.
+In a real-world production environment, the data to be queried is stored in a database, which is accessed in Python by providing the database connection parameters and credentials. Many databases also support connections via APIs.
 
 There are multiple ways to run SQL scripts in Python, depending on the database, setup, and requirements. If there are multiple scripts, we can compile them in a file or folder and iterate through them in Python to execute each query.
 
